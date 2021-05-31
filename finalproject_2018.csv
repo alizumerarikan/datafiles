@@ -1,4 +1,4 @@
-Rank,Country,TotalPopulation(M),SmartphonePenetration(%),SmartphoneUsers(M),Year
+Rank,Country,TotalPopulation(M),SmartphonePenetration,SmartphoneUsers(M),Year
 1,United Kingdom,66.5,83,54.7,2018
 2,Netherlands,17,79.3,13.5,2018
 3,Sweden,9.9,78.8,7.8,2018
