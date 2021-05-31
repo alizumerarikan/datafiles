@@ -1,4 +1,4 @@
-Rank,Country,TotalPopulation(M),SmartphonePenetration(%),SmartphoneUsers(M),Year
+Rank,Country,TotalPopulation(M),SmartphonePenetration,SmartphoneUsers(M),Year
 1,United Arab Emirates,9.3,80.6,7.5,2017
 2,Sweden,9.9,72.2,7.1,2017
 3,Switzerland,8.4,71.7,6,2017
